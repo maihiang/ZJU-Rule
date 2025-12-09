@@ -4,6 +4,9 @@
 # 域名
 DOMAIN-SUFFIX,zju.edu.cn
 
+# 我自己的域名
+DOMAIN,nas.maihiang.uk
+
 # CC98
 DOMAIN-KEYWORD,cc98
 
